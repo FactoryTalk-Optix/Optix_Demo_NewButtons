@@ -1,0 +1,13 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: LongPress
+  Id: g=33be71e57dc907b95881b3a8435fbc45
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Active
+  Id: g=b1460b318c188e67931adef4404349d5
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
